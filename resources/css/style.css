@@ -19,7 +19,7 @@ video {
 }
 
 /*Header*/
-h1 {
+.header--main {
     
     font-weight: Normal;
     font-size: 50px;
